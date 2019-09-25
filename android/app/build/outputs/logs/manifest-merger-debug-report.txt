@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.61.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/e5f374f9464693c89043b809d5e05cfb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/537e6c9280c3592fb03d09ec1ed18ede/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/d04a800ab041495dc3709a426c9f5cb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18ef2b761215f25d9ad91a9ce7451b40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27d0d0f69f4df831c9d6172948885043/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04c265f4bfd3cd1c751a5a5931e7c704/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/21bfca2ff21bf5e1a618461552a101c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d8f4054b5697ad32eb12475c4e475821/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0cf74bed4cf7dcef0abfd317cbdf792/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18551acc4add4bc23f2ff73605b36ee9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f37032a7a701e3f45655ad594ae1407c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/69833d6c0d13759b7ade152506b94a74/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/aaae043d68d26e2d7fe60e20e952af37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c3ed4513fd8502dd2b774c8a5a0f7838/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/563688974e8f674a9b276b440ab8e08d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7b52c4c2b12ad49113c6d43e7ee459e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1f8444be5b9fb73a828e20e29ccc04b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/c69ac8fdeac6c48beb69c4a1e26797a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b62515017df198da7b54bfedba688533/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2bde524c24bc067258baa6b9b534e444/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/87d888990b9127a7726b749c515c5b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/15d169d0df8520625041af4521f77ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e75912f95d35a3198c44f982cb8f9008/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/59e859d9d26e6defd706a66cdb4abff8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/284e96b953e6e89f9939603f4ec073f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04206e2e6ce5239b31c9181f53221837/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/4f5d96bd392c98849ef07ef92350d6ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a61c799b09165c058d2b52c7aee6c9ec/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cdc503dc9c82e32cb146c18097ba1e7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/85aa2526304d7fffde371b3f8f386f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80ffa37ebfee01b31453fe9ad994df54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7e4032682810888839b226ca1358270b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/789454c7872ab65f4c6975097ab65480/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f02a1871cc9e7bfb3944b0c73b8278e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c2b617b6d93f96d97e39a396f22eea1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82717e5e784f0c0155bef0e86242be5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e0d7f366d0274221623a9c4ee75be00f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/018eafbd4912669050cbfcafd296b198/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37614bc06bca2d5c81caf97f825de246/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [com.facebook.react:react-native:0.61.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/e5f374f9464693c89043b809d5e05cfb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/e5f374f9464693c89043b809d5e05cfb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f37032a7a701e3f45655ad594ae1407c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f37032a7a701e3f45655ad594ae1407c/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/69833d6c0d13759b7ade152506b94a74/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/69833d6c0d13759b7ade152506b94a74/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a61c799b09165c058d2b52c7aee6c9ec/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a61c799b09165c058d2b52c7aee6c9ec/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.marker.MainActivity
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:24:7-26:64
+	android:value
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:26:7-62
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml:25:7-52
+uses-sdk
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/e5f374f9464693c89043b809d5e05cfb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/e5f374f9464693c89043b809d5e05cfb/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/537e6c9280c3592fb03d09ec1ed18ede/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /private/var/root/.gradle/caches/transforms-2/files-2.1/537e6c9280c3592fb03d09ec1ed18ede/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/d04a800ab041495dc3709a426c9f5cb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /private/var/root/.gradle/caches/transforms-2/files-2.1/d04a800ab041495dc3709a426c9f5cb0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18ef2b761215f25d9ad91a9ce7451b40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18ef2b761215f25d9ad91a9ce7451b40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27d0d0f69f4df831c9d6172948885043/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/27d0d0f69f4df831c9d6172948885043/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04c265f4bfd3cd1c751a5a5931e7c704/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04c265f4bfd3cd1c751a5a5931e7c704/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/21bfca2ff21bf5e1a618461552a101c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/21bfca2ff21bf5e1a618461552a101c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d8f4054b5697ad32eb12475c4e475821/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d8f4054b5697ad32eb12475c4e475821/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0cf74bed4cf7dcef0abfd317cbdf792/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/d0cf74bed4cf7dcef0abfd317cbdf792/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18551acc4add4bc23f2ff73605b36ee9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/18551acc4add4bc23f2ff73605b36ee9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f37032a7a701e3f45655ad594ae1407c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f37032a7a701e3f45655ad594ae1407c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/69833d6c0d13759b7ade152506b94a74/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/69833d6c0d13759b7ade152506b94a74/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/aaae043d68d26e2d7fe60e20e952af37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/aaae043d68d26e2d7fe60e20e952af37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c3ed4513fd8502dd2b774c8a5a0f7838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c3ed4513fd8502dd2b774c8a5a0f7838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/563688974e8f674a9b276b440ab8e08d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/563688974e8f674a9b276b440ab8e08d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7b52c4c2b12ad49113c6d43e7ee459e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7b52c4c2b12ad49113c6d43e7ee459e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1f8444be5b9fb73a828e20e29ccc04b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1f8444be5b9fb73a828e20e29ccc04b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/c69ac8fdeac6c48beb69c4a1e26797a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/c69ac8fdeac6c48beb69c4a1e26797a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b62515017df198da7b54bfedba688533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/b62515017df198da7b54bfedba688533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2bde524c24bc067258baa6b9b534e444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/2bde524c24bc067258baa6b9b534e444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/87d888990b9127a7726b749c515c5b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/87d888990b9127a7726b749c515c5b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/15d169d0df8520625041af4521f77ee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/15d169d0df8520625041af4521f77ee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e75912f95d35a3198c44f982cb8f9008/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e75912f95d35a3198c44f982cb8f9008/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/59e859d9d26e6defd706a66cdb4abff8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/59e859d9d26e6defd706a66cdb4abff8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/284e96b953e6e89f9939603f4ec073f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/284e96b953e6e89f9939603f4ec073f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04206e2e6ce5239b31c9181f53221837/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/04206e2e6ce5239b31c9181f53221837/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/4f5d96bd392c98849ef07ef92350d6ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/4f5d96bd392c98849ef07ef92350d6ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /private/var/root/.gradle/caches/transforms-2/files-2.1/f867bb63a5fec1d8cb252e928e107522/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a61c799b09165c058d2b52c7aee6c9ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/a61c799b09165c058d2b52c7aee6c9ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cdc503dc9c82e32cb146c18097ba1e7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/cdc503dc9c82e32cb146c18097ba1e7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/85aa2526304d7fffde371b3f8f386f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/85aa2526304d7fffde371b3f8f386f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80ffa37ebfee01b31453fe9ad994df54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/80ffa37ebfee01b31453fe9ad994df54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7e4032682810888839b226ca1358270b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/7e4032682810888839b226ca1358270b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/789454c7872ab65f4c6975097ab65480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/789454c7872ab65f4c6975097ab65480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f02a1871cc9e7bfb3944b0c73b8278e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/f02a1871cc9e7bfb3944b0c73b8278e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c2b617b6d93f96d97e39a396f22eea1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/c2b617b6d93f96d97e39a396f22eea1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82717e5e784f0c0155bef0e86242be5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/82717e5e784f0c0155bef0e86242be5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e0d7f366d0274221623a9c4ee75be00f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/e0d7f366d0274221623a9c4ee75be00f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/018eafbd4912669050cbfcafd296b198/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/018eafbd4912669050cbfcafd296b198/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37614bc06bca2d5c81caf97f825de246/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/37614bc06bca2d5c81caf97f825de246/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/shaggy/Downloads/marker/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/shaggy/Downloads/marker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/3ba12605e286bb86d4f77d14881ca01f/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/1de3c9642049b050d5b3361b2a84e643/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /private/var/root/.gradle/caches/transforms-2/files-2.1/038debc8ae33d590a0064dd7bad9ad32/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /private/var/root/.gradle/caches/transforms-2/files-2.1/412f4dbd4a4a2d822653b8c32b1a7f0d/AndroidManifest.xml:9:13-58
